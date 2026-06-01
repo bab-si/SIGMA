@@ -1,0 +1,6 @@
+[submodule "EDGE/2ps"]
+	path = EDGE/2ps
+	url = git@github.com:UBAhmetKY/2ps_base.git
+[submodule "BOTH/SIGMA"]
+	path = BOTH/SIGMA
+	url = git@github.com:UBAhmetKY/MultiConstraintPartitioning.git
